@@ -10,6 +10,6 @@ package com.mycompany.mavenproject1;
  */
 public class Persona {
     
-    private int edad;
+    private int edad=0;
     
 }
