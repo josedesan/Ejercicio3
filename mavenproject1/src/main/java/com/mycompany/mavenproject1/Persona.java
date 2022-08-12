@@ -13,4 +13,10 @@ public class Persona {
     private int edad=0;
     private int anios;
     
+    public static void main(String[] args) {
+        System.out.println("JAVIER");
+        
+    }
+            
+    
 }
